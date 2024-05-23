@@ -13,6 +13,7 @@ public class Main {
         System.out.println(Decorator.decorate(result));
         result = OtherClass.div(2, 2);
         System.out.println(Decorator.decorate(result));
+        System.out.println("Hello World");
 
     }
 }
