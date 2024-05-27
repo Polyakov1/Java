@@ -13,8 +13,5 @@ public class Main {
         Task2.elementDifference(array1);
         Task3.zeroElement(array1);
 
-        Task1.countEvens(array2);
-        Task2.elementDifference(array2);
-        Task3.zeroElement(array2);
     }
 }
